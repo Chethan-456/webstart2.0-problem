@@ -1,22 +1,30 @@
-HTML Assignment: Basic Tags Practice
+#Seshadripuram College Webpage
 
-Title: Exploring HTML Tags 
+##Title: Exploring HTML Tags
+________________________________________
+ 1. What to Do:
+Create a basic HTML webpage for Seshadripuram College using standard HTML tags. This activity is aimed at helping you practice the structure and formatting of content using HTML.
+________________________________________
+📝 2. Submit Your Basic Page:
+Make sure your HTML page includes the following:
+a. Heading Tags
+•	Use all six heading tags: <h1> to <h6>
+•	Each heading should display “Seshadripuram College”
+b. Paragraph Tags
+•	Include at least three <p> tags
+•	Each paragraph should describe the college (e.g., history, courses, campus, etc.)
+c. Centered Content
+•	The main heading (college name) must be centered
+d. Line Breaks
+•	Use the <br> tag at least once inside a paragraph to break a line without starting a new paragraph
+________________________________________
+ 3. Optional Challenge:
+Add extra polish to your page by completing the following:
+Insert the College Logo
+•	Add the Seshadripuram College logo using the <img> tag
+•	Make sure to add alt text for accessibility
+Link the Logo to the Official Website
+•	Make the image clickable by wrapping it in an <a> tag
+Format the Webpage
 
-1. What to do:
-Create a basic HTML webpage using standard HTML tags to practice formatting and layout of text content.
-
-
-2. Submit Your Basic Page:
-Ensure that your HTML Page meets the following requirements:
-
-a.Proper use of <h1> to <h6> tags
-
-b.At least two <p> tags with descriptive content
-
-c.At least one example of centered content
-
-d.Use of <br> tag to break lines in content
-
-3. Optional Challenge:
-
-try to insert an image and link our college website to the image.
+ 
